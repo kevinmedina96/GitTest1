@@ -31,7 +31,7 @@ Partial Class Form1
         Me.go.Name = "go"
         Me.go.Size = New System.Drawing.Size(255, 107)
         Me.go.TabIndex = 0
-        Me.go.Text = "hola !"
+        Me.go.Text = "que onda"
         Me.go.UseVisualStyleBackColor = True
         '
         'Form1
